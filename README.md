@@ -62,10 +62,10 @@ Did you find this information useful, then give it a star
 
 ## Credits
 
-All the credits to [Jalaj](github.com/jalajsc)
+All the credits to [Jalaj](https://github.com/jalajsc)
 
 ## Support
 
 For any questions or issues, please open an issue on the [GitHub repository](https://github.com/yourusername/speech-to-sign-language/issues).
 
-_The Only limits are the one you have set upon yourself @unkown_
+_It's not a bug; it's an undocumented feature. @unkown_
